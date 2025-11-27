@@ -1,4 +1,4 @@
-RC Columns Dataset V1 – 50 reinforced concrete beam drawings, png + pdf, structural engineering details
+RC Columns Dataset V1 – 50 reinforced concrete beam columns, png + pdf, structural engineering details
 
 A professional dataset of real structural engineering drawings, created for AI training, OCR research, BIM automation and technical analysis.
 All drawings come from a large structural engineering office with over 15 years of experience in reinforced concrete design, construction detailing and statics.
